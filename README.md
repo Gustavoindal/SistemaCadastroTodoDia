@@ -80,6 +80,7 @@ Durante o desenvolvimento, aprendi a:
 •	MySQL Workbench
 •	PyCharm
 •	
+
 👤Autor
 Gustavo Indalêncio da Silva
 Estudante de Desenvolvimento de Sistemas – SENAC
