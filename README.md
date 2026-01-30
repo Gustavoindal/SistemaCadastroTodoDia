@@ -1,13 +1,11 @@
-⚠️ Observação importante
+## ⚠️ Observação importante
 
 Este foi meu primeiro projeto envolvendo banco de dados e operações CRUD, desenvolvido com foco total em aprendizado prático.
-
 Ele representa o início da minha evolução no backend, servindo como base conceitual para projetos posteriores mais avançados, incluindo versões em Java e uma API REST com Spring Boot e JWT.
-
 A simplicidade do projeto é intencional e reflete meu estágio de aprendizado naquele momento.
 
 
-👤 Sistema de Cadastro Todo Dia
+<h1>👤 Sistema de Cadastro Todo Dia</h1>
 Projeto desenvolvido para praticar banco de dados MySQL, integração com Python e uso completo do CRUD (Create, Read, Update, Delete).
 
 Objetivo do Projeto
@@ -27,7 +25,7 @@ O foco do projeto foi aprender:
 •	Criação de triggers para automação (ex: atualização automática de estoque)
 •	Integração entre Python e MySQL
 
-🚧 Estrutura do Projeto
+## 🚧 Estrutura do Projeto
 Banco de Dados
 •	O banco foi criado em MySQL, contendo as seguintes tabelas:
 •	cadastrar_clientes
@@ -55,7 +53,7 @@ A integração foi feita usando a biblioteca mysql.connector.
 Para instalar, digite no terminal:
 pip install mysql-connector-python
 
-▶️ Como rodar o projeto
+## ▶️ Como rodar o projeto
 
 1. Instale a biblioteca do MySQL para Python:
 pip install mysql-connector-python
@@ -66,7 +64,7 @@ pip install mysql-connector-python
 
 4. Execute o script Python.
 
-🧠 Aprendizados
+## 🧠 Aprendizados
 Durante o desenvolvimento, aprendi a:
 •	Modelar um banco de dados completo com relacionamentos
 •	Aplicar o CRUD em SQL
@@ -74,14 +72,14 @@ Durante o desenvolvimento, aprendi a:
 •	Conectar o Python ao MySQL para manipulação de dados reais
 •	Organizar e documentar um projeto completo para GitHub
 
-💻 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 •	MySQL 8
 •	Python 3
 •	MySQL Workbench
 •	PyCharm
 •	
 
-👤Autor
+## 👤Autor
 Gustavo Indalêncio da Silva
 Estudante de Desenvolvimento de Sistemas – SENAC
 Outubro de 2025
